@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech in Computer Science <br>| Full Stack Developer in Training <br>| Proficient in Java & Python <br>| Open to Internships & SDE Roles
+B.Tech in Computer Science <br>| Full Stack Developer <br>| Proficient in Java & Python <br>| Open to Internships & SDE Roles
 
 
 ## 🌐 Socials:
